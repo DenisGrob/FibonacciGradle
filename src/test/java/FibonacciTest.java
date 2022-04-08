@@ -17,7 +17,7 @@ public class FibonacciTest {
     @Test
     public void TestingFibonacci_10() {
 
-        Assert.assertTrue(Fibonacci.calculate(10).split(",").length == 11);
+        Assert.assertTrue(Fibonacci.calculate(10).split(",").length == 10);
     }
 
     @Test
