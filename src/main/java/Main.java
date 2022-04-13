@@ -1,3 +1,5 @@
+package main.java;
+
 import org.apache.logging.log4j.*;
 
 import java.io.*;
