@@ -1,5 +1,3 @@
-package main.java;
-
 public class Fibonacci {
 
     public static String calculate(double op1) {
